@@ -1,0 +1,6 @@
+ID NUMBER       PASSWORD     	     NAME                                 OFFICE/AREA ASSIGNMENT               OFFICE HEAD                                   
+2002315136      user1password        "Juan Tamad"                         "SDFO"                               "Maria Dela Cruz"                    
+1220202323      user2password        "Mary Martha Thalia Jimenez"         "Records"                            "Jose Palma"                         
+1023456789      user3password        "Emilio Magsaysay"                   "College Registrar"                  "Corazon Santos"                     
+9876543201      user4password        "Harry James Potter"                 "SDFO"                               "Maria Dela Cruz"                         
+2143658790      user5password        "Gloria Quirino"                     "Records"                            "Jose Palma"                         

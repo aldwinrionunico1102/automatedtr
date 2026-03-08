@@ -1,0 +1,26 @@
+1023456789
+Emilio Magsaysay
+College Registrar
+Corazon Santos
+
+JANUARY 2024
+
+Date			Time In		Time Out	Hours of Duty
+Jan 6 2024		08:36		10:17		1 hour, 41 minutes
+
+Jan 7 2024		10:18		10:20		0 hour, 2 minutes
+Jan 7 2024		10:23		10:38		0 hour, 15 minutes
+Jan 7 2024		13:15		13:51		0 hour, 36 minutes
+Jan 7 2024		13:55		13:59		0 hour, 4 minutes
+Jan 7 2024		14:00		14:02		0 hour, 2 minutes
+
+Jan 8 2024		11:44		11:46		0 hour, 2 minutes
+Jan 8 2024		11:51		12:03		0 hour, 12 minutes
+Jan 8 2024		12:19		12:20		0 hour, 1 minute
+Jan 8 2024		23:19		23:29		0 hour, 10 minutes
+Jan 8 2024		20:30		23:43		3 hours, 13 minutes
+Jan 8 2024		23:50		23:58		0 hour, 8 minutes
+
+Jan 9 2024		14:36		15:00		0 hour, 24 minutes
+Jan 9 2024		20:15		21:12		0 hour, 57 minutes
+Jan 9 2024		21:10

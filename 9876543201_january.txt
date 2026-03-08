@@ -1,0 +1,11 @@
+9876543201
+Harry James Potter
+SDFO
+Jose Palma
+
+JANUARY 2024
+
+Date			Time In		Time Out	Hours of Duty
+Jan 7 2024		14:51		15:52		1 hour, 1 minute
+Jan 7 2024		15:52		15:53		0 hour, 1 minute
+Jan 7 2024		15:55		16:05		0 hour, 10 minutes
