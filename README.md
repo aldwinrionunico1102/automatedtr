@@ -2,7 +2,7 @@
 
 ### Project Description
 
-_a C++ console application utilizing file input/output operations, functions, arrays, and nested loops to record, store, and retrieve daily time records for working scholars._
+_A C++ console application utilizing file input/output operations, functions, arrays, and nested loops to record, store, and retrieve daily time records for working scholars._
 
 AutomateDTR is a program designed to automate the Daily Time Record (DTR) process for Working Scholars of De La Salle Lipa. Traditionally, scholars manually record their time-in and time-out on printed DTR templates and compute their total duty hours themselves. This process can be time-consuming and prone to calculation errors. AutomateDTR simplifies this workflow by allowing scholars to input their identity, record their duty time, and automatically compute the duration of their work. The system also compiles duty records into monthly files for easy tracking and verification by office heads.
 
