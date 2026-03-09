@@ -23,6 +23,10 @@ This project is completed as an academic project, a Final CAPSTONE Project for t
 **Project Members**:
 - Unico, Aldwin Rion
 - Bathan, Andrea Gwen D.
-- Sato, Troy S
+- Sato, Troy S.
 
 **Project Date**: December 2023 to January 2024
+
+**Project Sample Image**:
+
+<img width="848" height="762" alt="0003" src="https://github.com/user-attachments/assets/8c34fc92-f1dd-4432-b3af-f0f33934af99" />
